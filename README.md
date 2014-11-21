@@ -9,7 +9,9 @@ Let us coordinate efforts creating new packages, pull requests, patterns or guid
 
 -
 
-WARNING! I will sometimes remove comments and add it to the issue description - Its an attempt to keep the discussions clean whilst having a brief summary of the discussion - You are most welcome to protest if you feel violated :)
+__WARNING!__ I will sometimes remove comments and add it to the issue description - Its an attempt to keep the discussions clean whilst having a brief summary of the discussion
+
+You are most welcome to protest if you feel violated :)
 
 -
 
