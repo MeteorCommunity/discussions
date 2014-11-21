@@ -9,6 +9,10 @@ Let us coordinate efforts creating new packages, pull requests, patterns or guid
 
 -
 
+WARNING! I will sometimes remove comments and add it to the issue description - Its an attempt to keep the discussions clean whilst having a brief summary of the discussion - You are most welcome to protest if you feel violated :)
+
+-
+
 I'll try to manage labels regarding to what parts of Meteor the discussion affects.
 
 I'm using labels to track the status of a discussion:
