@@ -1,3 +1,5 @@
+<img alt="Brain gears wpclipart - Animation added by RaiX" src="brain-gears.svg" height="131px" width="100%">
+
 Meteor core community discussions
 ================================
 
