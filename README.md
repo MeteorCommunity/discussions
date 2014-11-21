@@ -5,7 +5,7 @@ Track discussions about application development in Meteor
 
 Contributions, members, ideas and opinions are welcome here!!
 
-Lets coordinate efforts creating new packages, pull requests, patterns or guidlines for Meteor.
+Let us coordinate efforts creating new packages, pull requests, patterns or guidlines for Meteor.
 
 -
 
