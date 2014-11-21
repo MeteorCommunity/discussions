@@ -9,6 +9,8 @@ Contributions, members, ideas and opinions are welcome here!!
 
 Let us coordinate efforts creating new packages, pull requests, patterns or guidlines for Meteor.
 
+We could use this as base/topics for a monthly package developer/core Hangout discussion
+
 -
 
 ## WARNING!
