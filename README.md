@@ -9,12 +9,14 @@ Let us coordinate efforts creating new packages, pull requests, patterns or guid
 
 -
 
-__WARNING!__
+## WARNING!
 I will sometimes remove comments and add it to the issue description - Its an attempt to keep the discussions clean whilst having a brief summary of the discussion
 
 You are most welcome to protest if you feel violated :)
 
 -
+
+## Labels
 
 I'll try to manage labels regarding to what parts of Meteor the discussion affects.
 
@@ -24,6 +26,8 @@ I'm using labels to track the status of a discussion:
 * If solved the issue is closed
 
 -
+
+## Debate
 
 In a discussion we dont actually have to agree on things! __Core__ developers and __App__ developers face different problems.
 We just have to figure out how we can write better apps that are still performant/scaleable - There will often be a natural conflict of interest :)
