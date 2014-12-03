@@ -2,6 +2,7 @@
 
 Meteor core community discussions
 =================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/MeteorCommunity/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This repository tracks discussions about *application development* in Meteor. The Meteor core team is doing a fantastic job, but their focus is on core development, rather than real-world application development. We aim to provide the core devs with distilled input from the perspective of experienced Meteor application developers.
 
